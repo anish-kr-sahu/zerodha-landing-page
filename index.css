@@ -1,0 +1,44 @@
+header{
+    display: flex;
+    justify-content:space-between;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 160px;
+    padding-right: 160px;
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+}
+.nav-link{
+    color: gray;
+    cursor: pointer;
+    padding: 23px;
+    font-size: 1em;
+}
+.container{
+    text-align:center;
+    padding-top: 20px;
+}
+.heading{
+   text-align: center;
+}
+.content{
+   text-align: center;
+}
+.button{
+   text-align: center;
+}
+.button-menu{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 3px;
+    padding: 12px 30px;
+    margin: 30px;
+    border: none;
+    cursor: pointer;
+    background-color: rgb(109, 109, 232);
+    color: whitesmoke;
+    
+}
+.button-menu:hover{
+    background-color: black;
+}
